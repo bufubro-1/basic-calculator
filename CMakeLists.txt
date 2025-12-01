@@ -4,4 +4,5 @@ project(Calculator)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Calculator
-        add.cpp)
+        add.cpp
+        basics.h)
